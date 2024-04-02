@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m Raein
+- 🔭 I’m currently studying computer engineering
+- 🌱 I’m also working as site reliability engineer
+
+- [to be completed in apporiate time]

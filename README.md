@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **raeinsoltani/raeinsoltani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +13,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m Raein
-- 🔭 I’m currently studying computer engineering
-- 🌱 I’m also working as site reliability engineer
+# Hey there! 👋
 
-- [to be completed in apporiate time]
+I'm Raein, a computer engineering student passionate about coding and problem-solving. Currently exploring site reliability engineering.
+
+## About Me
+
+- 💻 Passionate about programming.
+- 🎭 Enthusiastic theater-goer.
+- 🎵 Groove to psychedelic rock and Persian hip hop.
+- 🌃 Night stroller.
+- 🎉 Enjoy socializing and raving.
+- 🌟 Always up for new discoveries.
+
+## Who I Am
+
+- 🗣️ Great listener, open to new ideas.
+- 👫 Value chemistry and connection in friendships.
+- 💪 Strive to be my unique best.
+
+## Hobbies
+
+- 🎧 Music lover, especially live experiences.
+- 🎬 Movie buff.
+- 📸 Amateur photographer.
+- 🥳 Socializing enthusiast.
+- 💪 Fitness enthusiast.
+
+Feel free to adjust or expand upon any sections as needed!
